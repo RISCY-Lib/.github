@@ -12,6 +12,8 @@ UVM Packages
   - A full featured UART agent
 - [sram_reactive_agent](https://github.com/RISCY-Lib/sram_reactive_agent)
   - A reactive agent acting as an SRAM block
+- [clk_rst_agent](https://github.com/RISCY-Lib/clk_rst_agent)
+  - A driver agent for Clock and Reset Signals
 
 ### Layering Agents
 

@@ -3,6 +3,14 @@ RISCY-Lib
 
 RISCY-Lib is an opensource collection of RTL (mainly SystemVerilog) design and verification Tools.
 
+Interfaces
+-----------
+
+- [interfaces](https://github.com/RISCY-Lib/interfaces)
+  - A repo which contains the latest of every interface
+- [uart_if](https://github.com/RISCY-Lib/uart_if)
+- [axilite_if](https://github.com/RISCY-Lib/axilite_if)
+
 UVM Packages
 ------------
 

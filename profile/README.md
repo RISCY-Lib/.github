@@ -7,9 +7,7 @@ Interfaces
 -----------
 
 - [interfaces](https://github.com/RISCY-Lib/interfaces)
-  - A repo which contains the latest of every interface
-- [uart_if](https://github.com/RISCY-Lib/uart_if)
-- [axilite_if](https://github.com/RISCY-Lib/axilite_if)
+  - A repo which contains a set of common SystemVerilog interfaces for Design and Verification
 
 UVM Packages
 ------------
